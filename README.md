@@ -9,5 +9,6 @@
     * `closing_time`
 6. Register the model into your admin site.
 7. Create some objects.
-8. Pass the tests.
-9. Push the Code.
+8. Check the above steps again.
+9. Pass the tests.
+10. Push the Code.
