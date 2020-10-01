@@ -1,4 +1,6 @@
 1. Setup a virtual environment.
+   You can setup a virtual environment by navigating to a folder and using python -m venv ./[name of the virtual environment]
+   After that, you are good to go.
 2. Fork the repository.
 3. Clone the repository you just forked.
 4. Install the packages from the requirements file.
