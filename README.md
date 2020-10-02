@@ -1,3 +1,4 @@
+# Installation guide
 1. Setup a virtual environment.
 2. Fork the repository.
 3. Clone the repository you just forked.
